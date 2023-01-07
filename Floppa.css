@@ -14,7 +14,7 @@
 /*Main Part*/
 
 #mainLogo {
-    content: url(https://cdn.discordapp.com/attachments/605348197241585666/934055250489405510/Unbenannt.png);
+    content: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac03a17e-589d-4ac1-952a-4185d1070994/dfjviyr-6839a997-443b-4819-b969-c068276c000c.png/v1/fill/w_712,h_1122,strp/gotou_hitori__bocchi__render_by_minhchauk1k_dfjviyr-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAxNiIsInBhdGgiOiJcL2ZcL2FjMDNhMTdlLTU4OWQtNGFjMS05NTJhLTQxODVkMTA3MDk5NFwvZGZqdml5ci02ODM5YTk5Ny00NDNiLTQ4MTktYjk2OS1jMDY4Mjc2YzAwMGMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.BRkK0DITC2KHS5q_d9bMjbsKS9TktxgnpMrwH6Dsucg);
 }
 
 a, a:active, a:visited {
@@ -216,7 +216,7 @@ input:checked + .slider, .settingsBtn, input:checked + .sliderSml, .loadoutBtn, 
 #ammoDisplay::before {
     opacity: 1;
     content: " ";
-    background: url(https://cdn.discordapp.com/attachments/726163389868539934/934116690206265366/unnamed.png);
+    background: url();
     position: fixed;
     right: 55%;
     top: 65%;
@@ -280,7 +280,7 @@ input:checked + .slider, .settingsBtn, input:checked + .sliderSml, .loadoutBtn, 
 }
 
 .lC-cube {
-    content: url(https://cdn.discordapp.com/attachments/726163389868539934/934133557876645919/l8e8aAQ.png);
+    content: url();
     background-size: 400px;
     width: 750px;
     height: 400px;
